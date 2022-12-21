@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--chemIndustry-->
+<cfg>
+    <Pnom>16.8</Pnom>
+    <maxPrice>200.0</maxPrice>
+    <load>95</load> <!--H1-->
+    <load>90</load> <!--H2-->
+    <load>90</load> <!--H3-->
+    <load>90</load> <!--H4-->
+    <load>95</load> <!--H5-->
+    <load>95</load> <!--H6-->
+    <load>95</load> <!--H7-->
+    <load>95</load> <!--H8-->
+    <load>95</load> <!--H9-->
+    <load>100</load> <!--H10-->
+    <load>100</load> <!--H11-->
+    <load>85</load> <!--H12-->
+    <load>85</load> <!--H13-->
+    <load>90</load> <!--H14-->
+    <load>90</load> <!--H15-->
+    <load>100</load> <!--H16-->
+    <load>100</load> <!--H17-->
+    <load>80</load> <!--H18-->
+    <load>80</load> <!--H19-->
+    <load>80</load> <!--H20-->
+    <load>90</load> <!--H21-->
+    <load>90</load> <!--H22-->
+    <load>90</load> <!--H23-->
+    <load>90</load> <!--H24-->
+</cfg>
+
+
+

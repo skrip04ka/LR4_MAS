@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--foodIndustry-->
+<cfg>
+    <Pnom>16.8</Pnom>
+    <maxPrice>200.0</maxPrice>
+    <load>85</load> <!--H1-->
+    <load>85</load> <!--H2-->
+    <load>85</load> <!--H3-->
+    <load>85</load> <!--H4-->
+    <load>80</load> <!--H5-->
+    <load>80</load> <!--H6-->
+    <load>80</load> <!--H7-->
+    <load>90</load> <!--H8-->
+    <load>90</load> <!--H9-->
+    <load>100</load> <!--H10-->
+    <load>100</load> <!--H11-->
+    <load>100</load> <!--H12-->
+    <load>95</load> <!--H13-->
+    <load>95</load> <!--H14-->
+    <load>95</load> <!--H15-->
+    <load>95</load> <!--H16-->
+    <load>90</load> <!--H17-->
+    <load>90</load> <!--H18-->
+    <load>90</load> <!--H19-->
+    <load>90</load> <!--H20-->
+    <load>90</load> <!--H21-->
+    <load>90</load> <!--H22-->
+    <load>90</load> <!--H23-->
+    <load>85</load> <!--H24-->
+</cfg>
+
+
+
