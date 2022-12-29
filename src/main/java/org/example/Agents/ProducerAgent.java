@@ -27,7 +27,7 @@ public class ProducerAgent extends Agent {
             JAXBContext context = JAXBContext.newInstance(ProducerCFG.class);
             Unmarshaller jaxbUnmarshaller = context.createUnmarshaller();
             cfg = (ProducerCFG) jaxbUnmarshaller.unmarshal(
-                    new File("src/main/resources/LR4/Producer/"  + getLocalName() + ".xml"));
+                    new File("src/main/resources/Producer/"  + getLocalName() + ".xml"));
         } catch (JAXBException e) {
             throw new RuntimeException(e);
         }

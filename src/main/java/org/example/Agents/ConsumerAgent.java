@@ -25,7 +25,7 @@ public class ConsumerAgent extends Agent {
             JAXBContext context = JAXBContext.newInstance(ConsumerCFG.class);
             Unmarshaller jaxbUnmarshaller = context.createUnmarshaller();
             cfg = (ConsumerCFG) jaxbUnmarshaller.unmarshal(
-                    new File("src/main/resources/LR4/Consumer/"  + getLocalName() + ".xml"));
+                    new File("src/main/resources/Consumer/"  + getLocalName() + ".xml"));
         } catch (JAXBException e) {
             throw new RuntimeException(e);
         }
